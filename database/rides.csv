@@ -1,1 +1,1 @@
-rideid,date,time,userid,pullerid,start,dest,status,abs_status,pickup_time
+rideid,date,time,userid,pullerid,start,dest,status,abs_status,pickup_time,request_time,accepted_time,drop_time,completion_time,wait_seconds,completion_seconds,points_awarded,distance_to_block_m,created_at,updated_at

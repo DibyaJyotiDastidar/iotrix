@@ -1,1 +1,1 @@
-id,userid,name,privilege,flag,ban,password,sign_up,phone
+id,userid,name,privilege,flag,ban,password_hash,sign_up,phone,created_at,updated_at

@@ -1,1 +1,1 @@
-pullerid,name,vehicle,flag,ban,password,points,sign_up_date,phone,ride_count
+pullerid,name,vehicle,flag,ban,password_hash,points,sign_up_date,phone,ride_count,avg_wait_time_seconds,avg_completion_time_seconds,created_at,updated_at
